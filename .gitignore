@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#testing
+tests
+
+#Carpeta raiz
+src
